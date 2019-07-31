@@ -1,0 +1,16 @@
+{
+    "name": "zantolov/toolbelt",
+    "authors": [
+        {
+            "name": "Zoran Antolović",
+            "email": "zoran.antolovic.os@gmail.com"
+        }
+    ],
+    "require": {
+        "beberlei/assert": "^3.2",
+        "phpstan/phpstan": "^0.11.12",
+        "friendsofphp/php-cs-fixer": "^2.15"
+    },
+    "require-dev": {
+    }
+}
